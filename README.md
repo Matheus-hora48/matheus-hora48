@@ -1,4 +1,10 @@
-## Olá eu sou Matheus Hora, programador junior!
+<h1>Hi there, I'm Felipe Sales</h1>
+
+<h3>🤙 How are you? I hope you are well, welcome to my profile.</h3>
+
+<img height="180em" align="right" src="https://user-images.githubusercontent.com/59374587/153518639-7a26f075-9621-4c47-bae8-e46c957d09a7.png"/>
+
+<p>
 <div align="center">
   <a href="https://github.com/matheus-hora48">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheus-hora48&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
