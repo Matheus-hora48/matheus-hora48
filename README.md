@@ -12,7 +12,7 @@
  
 - 💬 Ask me about everything, I always enjoy helping people.
 
-- 👊 Driven by concrete goals and well-defined goals. I will make it happen.
+- 👊 Driven by concrete goals and well-defined goals.
 
 - 🔥 Looking to improve my knowledge.
   
