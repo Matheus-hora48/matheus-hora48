@@ -24,14 +24,12 @@
 ---
 
 <p>
-<div align="center">
-  <br>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=matheus-hora48&show_icons=true&theme=dark"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hora48&theme=dark"/>
-  <br>
-  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-hora48&show_icons=true&locale=en&layout=compact&theme=dark&line_height=1"/>
-  <img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheus-hora48&theme=monokai"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheus-hora48&show_icons=true&count_private=true&hide_border=true&title_color=e8eaea&icon_color=e8eaea&text_color=e8eaea&bg_color=0d1117" alt="Matheus Hora github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hora48&layout=compact&hide_border=true&title_color=e8eaea&text_color=e8eaea&bg_color=0d1117" />
 </div>
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=matheus-hora48&theme=github-compact&hide_border=true)
 <div style="display: inline_block"><br>
   <img align="right" alt="hora-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/J3BlD4W2r1mcK1vMWW/giphy.gif">
 </div>
