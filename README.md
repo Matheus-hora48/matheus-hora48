@@ -46,3 +46,8 @@
   ![Snake animation](https://github.com/Matheus-hora48/matheus-hora48/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheus-hora48}/count.svg" /></p> 
+<br></div>
