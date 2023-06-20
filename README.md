@@ -25,7 +25,7 @@
 
 <p>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheus-hora48&show_icons=true&count_private=true&hide_border=true&title_color=e8eaea&icon_color=e8eaea&text_color=e8eaea&bg_color=0d1117" alt="Matheus Hora github stats" /> 
+  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hora48&layout=compact&hide_border=true&title_color=e8eaea&text_color=e8eaea&bg_color=0d1117" />
 </div>
 
