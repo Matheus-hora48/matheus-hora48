@@ -9,8 +9,6 @@
 - 👨‍💻 Flutter Developer.
 
 - 🔭 I’m currently working at [TopSoft](https://www.linkedin.com/company/topsoftinformatica/mycompany/).
- 
-- 💬 Ask me about everything, I always enjoy helping people.
 
 - 👊 Driven by concrete goals and well-defined goals.
 
