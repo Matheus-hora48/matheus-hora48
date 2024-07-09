@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Matheus Hora</h1>
+<h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&random=false&width=435&lines=Hi+there%2C+I'm+Matheus+Hora" alt="Typing SVG" /></a> </h1>
 
 <h3>🤙 How are you? I hope you are well, welcome to my profile.</h3>
 
@@ -23,14 +23,11 @@
 
 <p>
 <div align="center">  
-  
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Matheus-hora48&theme=meta-dark&border_radius=16&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hora48&layout=compact&hide_border=true&title_color=e8eaea&text_color=e8eaea&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=matheus-hora48&theme=github-compact&hide_border=true)
-<div style="display: inline_block"><br>
-  <img align="right" alt="hora-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/J3BlD4W2r1mcK1vMWW/giphy.gif">
-</div>
+
   
   ##
  
