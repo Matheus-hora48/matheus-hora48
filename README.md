@@ -16,6 +16,8 @@
   
 - 📚 I always try to excel in what I do.
 
+![image](https://www.codewars.com/users/mhora48/badges/large)
+
 
 </p>
 
