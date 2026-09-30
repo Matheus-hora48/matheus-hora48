@@ -1,46 +1,51 @@
-<h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&random=false&width=435&lines=Hi+there%2C+I'm+Matheus+Hora" alt="Typing SVG" /></a> </h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D47A1,100:00C2FF&height=200&section=header&text=Matheus%20Hora&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Matheus Hora">
 
-<h3>🤙 How are you? I hope you are well, welcome to my profile.</h3>
+  <h3>Full Stack Developer · Flutter · .NET · Next.js</h3>
 
-<img height="180em" align="right" src="https://user-images.githubusercontent.com/59374587/153518639-7a26f075-9621-4c47-bae8-e46c957d09a7.png"/>
+  <p>
+    Building mobile apps, APIs, and web experiences.
+  </p>
 
-<p>
-
-- 👨‍💻 Flutter Developer.
-
-- 🔭 I’m currently working at [Conceito Tecnologia](https://conceitotecnologia.com/).
-
-- 👊 Driven by concrete goals and well-defined goals.
-
-- 🔥 Looking to improve my knowledge.
-  
-- 📚 I always try to excel in what I do.
-
-
-</p>
+  <a href="https://www.linkedin.com/in/devmatheushora/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/matheus11hora/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:matheus11hora@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
 ---
 
+### About me
+
+I build across the stack: mobile applications with Flutter, backend services with .NET, and web experiences with Next.js. I enjoy solving practical problems, learning continuously, and taking ideas from implementation to delivery.
+
+### Tech stack
+
 <p>
-<div align="center">  
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Matheus-hora48&theme=meta-dark&border_radius=16&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hora48&layout=compact&hide_border=true&title_color=e8eaea&text_color=e8eaea&bg_color=0d1117" />
-</div>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C sharp">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+</p>
 
+### GitHub activity
 
-  
-  ##
- 
-<div  align="center"> 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Matheus-hora48&theme=transparent&hide_border=true&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" alt="GitHub contribution streak">
+</p>
 
-  
-  <a href="https://www.instagram.com/matheus11hora/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheus11hora@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-hora-07a7a221b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-</div>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheus-hora48}/count.svg" /></p> 
-<br></div>
+<p align="center">
+  <i>Always learning. Always building.</i>
+</p>
