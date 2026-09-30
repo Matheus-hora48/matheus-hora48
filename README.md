@@ -10,8 +10,8 @@
   <a href="https://www.linkedin.com/in/devmatheushora/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/matheus11hora/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://wa.me/5577998245456">
+    <img src="https://img.shields.io/badge/WhatsApp-Message%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <a href="mailto:matheus11hora@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20me-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
